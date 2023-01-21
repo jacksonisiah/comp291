@@ -40,7 +40,7 @@ public class Main {
         var lol = new ArrayList<Integer>();
 
         var qty = scnr.nextInt();
-        for (int i = 0; i < qty; i++) {q
+        for (int i = 0; i < qty; i++) {
             lol.add(scnr.nextInt());
         }
 
